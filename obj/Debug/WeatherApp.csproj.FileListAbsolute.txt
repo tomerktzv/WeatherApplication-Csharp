@@ -1,0 +1,39 @@
+C:/Computers_Projects/C#/WeatherService-master/WeatherApp/WeatherApp/bin/Debug/WeatherApp.exe.config
+C:/Computers_Projects/C#/WeatherService-master/WeatherApp/WeatherApp/bin/Debug/WeatherApp.exe
+C:/Computers_Projects/C#/WeatherService-master/WeatherApp/WeatherApp/bin/Debug/WeatherApp.pdb
+C:/Computers_Projects/C#/WeatherService-master/WeatherApp/WeatherApp/bin/Debug/Newtonsoft.Json.dll
+C:/Computers_Projects/C#/WeatherService-master/WeatherApp/WeatherApp/bin/Debug/Newtonsoft.Json.xml
+C:/Computers_Projects/C#/WeatherService-master/WeatherApp/WeatherApp/obj/Debug/WeatherApp.csprojResolveAssemblyReference.cache
+C:/Computers_Projects/C#/WeatherService-master/WeatherApp/WeatherApp/obj/Debug/WeatherApp.exe
+C:/Computers_Projects/C#/WeatherService-master/WeatherApp/WeatherApp/obj/Debug/WeatherApp.pdb
+C:/Computers_Projects/C#/C.Sharp-WeatherService/WeatherApp/bin/Debug/WeatherApp.exe.config
+C:/Computers_Projects/C#/C.Sharp-WeatherService/WeatherApp/obj/Debug/WeatherApp.exe
+C:/Computers_Projects/C#/C.Sharp-WeatherService/WeatherApp/obj/Debug/WeatherApp.pdb
+C:/Computers_Projects/C#/C.Sharp-WeatherService/WeatherApp/bin/Debug/WeatherApp.exe
+C:/Computers_Projects/C#/C.Sharp-WeatherService/WeatherApp/bin/Debug/WeatherApp.pdb
+C:/Computers_Projects/C#/C.Sharp-WeatherService/WeatherApp/bin/Debug/Newtonsoft.Json.dll
+C:/Computers_Projects/C#/C.Sharp-WeatherService/WeatherApp/bin/Debug/Newtonsoft.Json.xml
+C:/Computers_Projects/C#/C.Sharp-WeatherService/WeatherApp/obj/Debug/WeatherApp.csprojResolveAssemblyReference.cache
+C:/Users/talk/Desktop/C.Sharp-WeatherService/WeatherApp/bin/Debug/WeatherApp.exe.config
+C:/Users/talk/Desktop/C.Sharp-WeatherService/WeatherApp/obj/Debug/WeatherApp.exe
+C:/Users/talk/Desktop/C.Sharp-WeatherService/WeatherApp/obj/Debug/WeatherApp.pdb
+C:/Users/talk/Desktop/C.Sharp-WeatherService/WeatherApp/bin/Debug/WeatherApp.exe
+C:/Users/talk/Desktop/C.Sharp-WeatherService/WeatherApp/bin/Debug/WeatherApp.pdb
+C:/Users/talk/Desktop/C.Sharp-WeatherService/WeatherApp/bin/Debug/Newtonsoft.Json.dll
+C:/Users/talk/Desktop/C.Sharp-WeatherService/WeatherApp/bin/Debug/Newtonsoft.Json.xml
+C:/Users/talk/Desktop/C.Sharp-WeatherService/WeatherApp/obj/Debug/WeatherApp.csprojResolveAssemblyReference.cache
+C:/Users/talk/Desktop/C.Sharp-WeatherAPP/bin/Debug/WeatherApp.exe.config
+C:/Users/talk/Desktop/C.Sharp-WeatherAPP/obj/Debug/WeatherApp.exe
+C:/Users/talk/Desktop/C.Sharp-WeatherAPP/obj/Debug/WeatherApp.pdb
+C:/Users/talk/Desktop/C.Sharp-WeatherAPP/bin/Debug/WeatherApp.exe
+C:/Users/talk/Desktop/C.Sharp-WeatherAPP/bin/Debug/WeatherApp.pdb
+C:/Users/talk/Desktop/C.Sharp-WeatherAPP/bin/Debug/Newtonsoft.Json.xml
+C:/Users/talk/Desktop/C.Sharp-WeatherAPP/obj/Debug/WeatherApp.csprojResolveAssemblyReference.cache
+/Users/tomerktzv/Google Drive/שנה ב/סמסטר קיץ/שפות תכנות/Latest Version 2/bin/Debug/WeatherApp.exe.config
+/Users/tomerktzv/Google Drive/שנה ב/סמסטר קיץ/שפות תכנות/Latest Version 2/bin/Debug/WeatherApp.exe
+/Users/tomerktzv/Google Drive/שנה ב/סמסטר קיץ/שפות תכנות/Latest Version 2/bin/Debug/WeatherApp.pdb
+/Users/tomerktzv/Google Drive/שנה ב/סמסטר קיץ/שפות תכנות/Latest Version 2/bin/Debug/Newtonsoft.Json.xml
+/Users/tomerktzv/Google Drive/שנה ב/סמסטר קיץ/שפות תכנות/Latest Version 2/obj/Debug/WeatherApp.csprojResolveAssemblyReference.cache
+/Users/tomerktzv/Google Drive/שנה ב/סמסטר קיץ/שפות תכנות/Latest Version 2/obj/Debug/WeatherApp.csproj.CoreCompileInputs.cache
+/Users/tomerktzv/Google Drive/שנה ב/סמסטר קיץ/שפות תכנות/Latest Version 2/obj/Debug/WeatherApp.exe
+/Users/tomerktzv/Google Drive/שנה ב/סמסטר קיץ/שפות תכנות/Latest Version 2/obj/Debug/WeatherApp.pdb

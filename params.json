@@ -1,0 +1,6 @@
+{
+  "name": "C.sharp-weatherapp",
+  "tagline": "Weather Application",
+  "body": " <html>\r\n<head>\r\n  <title>WeatherAPP</title>\r\n  <meta charset=\"utf-8\">   \r\n</head>\r\n<body>\r\n<h1>This is my First Git pages<h1>\r\n<h2>Created by - Tal Kot, Tomer Katzav & Namma Lapidot</h2>\r\n<h3>This standalone application was build using C#, provides weather information about all the cities in the world - you just need to choose one.<br> The application uses - \"openweathermap.org\" API to get the information that it need. By using factory design pattern, it can easily used by any other API that provides the same weather information.</h3>\r\n</body>\r\n</html>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}

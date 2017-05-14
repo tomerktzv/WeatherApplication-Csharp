@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{EAE98561-08FB-43A9-9A39-8865874F40A2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="26" Column="20" />
+      <File FileName="WeatherDataException.cs" Line="1" Column="1" />
+      <File FileName="WeatherDataServiceFactory.cs" Line="1" Column="1" />
+      <File FileName="WeatherMap.cs" Line="39" Column="96" />
+      <File FileName="WeatherData.cs" Line="25" Column="3" />
+      <File FileName="WeatherMap.Tests/WeatherMapTests.cs" Line="8" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WeatherApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

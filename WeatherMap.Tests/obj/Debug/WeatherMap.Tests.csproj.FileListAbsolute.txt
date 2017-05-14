@@ -1,0 +1,7 @@
+C:\Users\talk\Desktop\C.Sharp-WeatherAPP\WeatherMap.Tests\bin\Debug\WeatherMap.Tests.dll
+C:\Users\talk\Desktop\C.Sharp-WeatherAPP\WeatherMap.Tests\bin\Debug\WeatherMap.Tests.pdb
+C:\Users\talk\Desktop\C.Sharp-WeatherAPP\WeatherMap.Tests\bin\Debug\WeatherApp.exe
+C:\Users\talk\Desktop\C.Sharp-WeatherAPP\WeatherMap.Tests\bin\Debug\WeatherApp.pdb
+C:\Users\talk\Desktop\C.Sharp-WeatherAPP\WeatherMap.Tests\obj\Debug\WeatherMap.Tests.csprojResolveAssemblyReference.cache
+C:\Users\talk\Desktop\C.Sharp-WeatherAPP\WeatherMap.Tests\obj\Debug\WeatherMap.Tests.dll
+C:\Users\talk\Desktop\C.Sharp-WeatherAPP\WeatherMap.Tests\obj\Debug\WeatherMap.Tests.pdb
